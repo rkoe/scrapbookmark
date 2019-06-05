@@ -1,7 +1,8 @@
 # Scrapbookmark
 Scrapbook for Firefox Quantum (and probably Chromium), integrated into the browser bookmarks.
 
-"Scrapbooking" websites (=storing websites incl. their meta-information and their current state; and managing them like bookmarks) in a browser is very useful. Unfortunately, the old Scrapbook addons (e.g. https://github.com/danny0838/firefox-scrapbook) for Firefox unfortunately do not work anymore with Firefox Quantum, and there's currently no working replacement.
+"Scrapbooking" websites (=storing websites incl. their meta-information and their current state; and managing them like bookmarks) in a browser is very useful. Unfortunately, the old Scrapbook addons (e.g. https://github.com/danny0838/firefox-scrapbook) for Firefox unfortunately do not work anymore with Firefox Quantum, and there's currently no working replacement
+(except https://github.com/danny0838/webscrapbook, but this works quite differently than Scrapbook X and is unfortunately much harder to use).
 
 So, here a Scrapbook for Firefox Quantum (and maybe also Chromium) -- based on bookmarks -- is developed.
 

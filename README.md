@@ -37,4 +37,4 @@ Limitations:
 - publish the code
 - edit pages with the WebDeveloper tools and store the changes
 - extend functionality (edit metadata, edit page, export, move pages to other scrapbooks, remove unused files, ...)
-- convert a WebExtensions-addon to overcome the limitations above
+- convert to a WebExtensions-addon to overcome the limitations above
